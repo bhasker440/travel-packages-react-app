@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(240, 246, 255);
+}
+.main-div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 30px;
+}
